@@ -10,7 +10,13 @@
 
 
 <div id="sobre">
-  
+  <p>
+   API controlar por duas rotdas principais
+  <ul>
+    <li>Users</li>
+   <li>Projects</li>
+ </ul>
+ </p>
  
  </did> 
  
