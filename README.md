@@ -28,7 +28,7 @@
  <ul>
   <li>Node & Express.</li>
   <li>MongoDB & Mongoose.</li>
-  <li>JWT, Node-Mailer.</li>
+  <li>JWT(JsonWebToken) & Node-Mailer.</li>
   <li>Node & Express.</li>
  </ul> 
  </div>
