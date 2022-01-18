@@ -14,8 +14,12 @@
   <p>
    API comtem duas rotas principais
   <ul>
-    <li><strong>Users</strong> - Controla Requisições de cadastro, autenticação utilizando JWT, reset de senha com o modulo Node-mailer</li>
-    <li>Projects</li>
+    <li><strong>Users</strong>
+     <ul>
+      <li>Controla Requisições de cadastro</li>
+      <li>Autenticação utilizando JWT</li>>
+      <li>Reset de senha com o modulo Node-mailer</li>
+    <li><strong>Projects</li></strong>
   </ul>
  </p>
  
