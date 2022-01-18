@@ -1,6 +1,6 @@
 # Primeira API-REST
 ## Descrição do Projeto
-<p align="center">Nesse projeto construi uma API REST simples utilizando o framework EXPRESS e a base de dados MONGODB </p>
+<p>Nesse projeto construi uma API REST simples utilizando o framework EXPRESS e a base de dados MONGODB </p>
 
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
