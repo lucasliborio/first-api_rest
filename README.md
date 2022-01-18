@@ -17,7 +17,7 @@
     <li><strong>Users</strong>
      <ul>
       <li>Controla Requisições de cadastro</li>
-      <li>Autenticação utilizando JWT</li>>
+      <li>Autenticação utilizando JWT</li>
       <li>Reset de senha com o modulo Node-mailer</li>  
      </ul>
     <li><strong>Projects</strong></li>
