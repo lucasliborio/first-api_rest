@@ -3,13 +3,6 @@
 <p>Nesse projeto construi uma API REST simples utilizando o framework EXPRESS e a base de dados MongoDB</p>
 <p>Essá aplicação me possibilitou aprender mais sobre middlewares, fluxo de autenticação de login e reçacionamento entre as collections do MongoDB</p>
 
-<p align="center">
- <a href="#objetivo">Sobre</a> •
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#Testando">Autor</a>
-</p>
-
-
 <div id="sobre">
   <p>
    API comtem duas rotas principais
