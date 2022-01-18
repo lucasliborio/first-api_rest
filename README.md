@@ -3,10 +3,22 @@
 <p>Nesse projeto construi uma API REST simples utilizando o framework EXPRESS e a base de dados MONGODB </p>
 
 <p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#roadmap">Roadmap</a> • 
+ <a href="#objetivo">Sobre</a> •
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
  <a href="#autor">Autor</a>
 </p>
+
+
+<div id="sobre">
+  
+ 
+ </did> 
+ 
+ <div id="tecnologias">
+  
+ 
+ </did>
+ <div id="Autor">
+  
+ 
+ </did> 
