@@ -11,7 +11,7 @@
 
 <div id="sobre">
   <p>
-   API controlar por duas rotdas principais
+   API comtem duas rotas principais
   <ul>
     <li>Users</li>
    <li>Projects</li>
