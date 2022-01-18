@@ -19,15 +19,16 @@
   </ul>
  </p>
  
- </did> 
+ </div> 
  
  <div id="tecnologias">
   Node
   MongoDB
   
- </did>
- <div id="Testando">
-# 🎲 Rodando o Back End (servidor)
+ </div>
+<div id="Testando">
+ 
+🎲 Rodando o Back End (servidor)
 
 Clone este repositório
  
@@ -42,4 +43,4 @@ $ npm start
 O servidor inciará na porta:3000 - acesse <http://localhost:3000>
 ```
  
- </did> 
+ </div> 
