@@ -43,17 +43,23 @@
  
 🎲 Rodando o Back End (servidor)
 
-Clone este repositório
- 
-Acesse a pasta do projeto no terminal/cmd
- 
-Instale as dependências
-$ npm install
 
-Execute a aplicação em modo de desenvolvimento
-$ npm start
+ <ul>
+  <li>Clone este repositório</li>
+  <li>Acesse a pasta do projeto no terminal/cmd</li>
+  <li>Instale as dependências</li>
+  $ npm install
+  <li>Execute a aplicação em modo de desenvolvimento</li>
+  $ npm start
+  
+  <li>O servidor inciará na porta:3000 - acesse <http://localhost:3000></li>
+ </ul> 
 
-O servidor inciará na porta:3000 - acesse <http://localhost:3000>
+ 
+
+
+
+
 ```
  
  </div> 
