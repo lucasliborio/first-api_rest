@@ -18,17 +18,26 @@
      <ul>
       <li>Controla Requisições de cadastro</li>
       <li>Autenticação utilizando JWT</li>>
-      <li>Reset de senha com o modulo Node-mailer</li>
-    <li><strong>Projects</li></strong>
+      <li>Reset de senha com o modulo Node-mailer</li>  
+     </ul>
+    <li><strong>Projects</strong></li>
+   <ul>
+    <li>Rotas de criação de projetos</li>
+    <li>Relacionamentos entre models com Mongoose</li>
+    <li>CRUD das entidades da aplicação</li>
+   </ul>
   </ul>
  </p>
  
  </div> 
  
  <div id="tecnologias">
-  Node
-  MongoDB
-  
+ <ul>
+  <li>Node & Express.</li>
+  <li>MongoDB & Mongoose.</li>
+  <li>JWT, Node-Mailer.</li>
+  <li>Node & Express.</li>
+ </ul> 
  </div>
 <div id="Testando">
  
