@@ -29,17 +29,17 @@
  <div id="Testando">
   ### 🎲 Rodando o Back End (servidor)
 
-###Clone este repositório
+Clone este repositório
  
-####Acesse a pasta do projeto no terminal/cmd
+Acesse a pasta do projeto no terminal/cmd
  
-####Instale as dependências
+Instale as dependências
 $ npm install
 
-####Execute a aplicação em modo de desenvolvimento
+Execute a aplicação em modo de desenvolvimento
 $ npm start
 
-#### O servidor inciará na porta:3000 - acesse <http://localhost:3000>
+O servidor inciará na porta:3000 - acesse <http://localhost:3000>
 ```
  
  </did> 
