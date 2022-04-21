@@ -1,7 +1,7 @@
 # Primeira API-REST
 ## Descrição do Projeto
-<p>Nesse projeto construi uma API REST simples utilizando o framework EXPRESS e a base de dados MongoDB</p>
-<p>Essá aplicação me possibilitou aprender mais sobre middlewares, fluxo de autenticação de login e reçacionamento entre as collections do MongoDB</p>
+<p>Nesse projeto construí uma API REST simples utilizando o framework EXPRESS e a base de dados MongoDB</p>
+<p>Essá aplicação me possibilitou aprender mais sobre middlewares, fluxo de autenticação de login e relacionamento entre as collections do MongoDB</p>
 
 <div id="sobre">
   <p>
